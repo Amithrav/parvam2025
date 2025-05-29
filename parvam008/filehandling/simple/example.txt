@@ -1,0 +1,5 @@
+Hello, File Handling...
+This Is PokeDex Of Musa
+
+	1.Bulbasaur 
+	2.Pikachu

@@ -1,0 +1,2 @@
+Invalid input: First number is not a number.
+Invalid input: Second number is not a number.
